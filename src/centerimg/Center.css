@@ -1,0 +1,94 @@
+.sviter {
+    color: #0F303F;
+    line-height: 25px;
+}
+
+.Container_text {
+    width: 1440px;
+    height: 2550px;
+    margin: 0 auto;
+}
+
+.pik {
+    height: 0px;
+    width: 10px;
+    border: 1px solid #E64926;
+
+}
+
+.p_content {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.p_con2_p {
+    height: 40px;
+    width: 185px;
+    border: 1px solid #EAE9E8
+}
+
+.p_14 {
+    transform: translateX(334px);
+    color: #0F303F;
+
+}
+
+.h3_block {
+    transform: translateX(273px) translateY(-55px);
+    color: white;
+}
+
+.img_10 {
+    position: relative;
+    position: relative;
+    bottom: 272px;
+    right: 53px;
+}
+
+.img {
+    text-align: center;
+}
+
+.price_center {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    /* transform: translateX(-41px); */
+}
+
+.fink_ki {
+
+    width: 75px;
+    height: 0px;
+    color: #CECECE;
+
+
+}
+
+.fix {
+    border: 2px solid #CECECE;
+    height: 0px;
+    width: 75px;
+    position: relative;
+    left: 83px;
+    top: 8px;
+
+}
+.img_import{
+    display: grid;
+    gap: 100px;
+    grid-template-columns: 200px 200px 200px;
+}
+
+.img_main {
+    display: flex;
+    justify-content: center;
+}
+.img_with{
+    height: 325px;
+    width: 270px;
+}
+.text{
+    transform: translateY(-3402px);
+}
